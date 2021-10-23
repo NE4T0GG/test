@@ -6,7 +6,7 @@ int main()
 {
 	int min, max;
 	float x, h, y;
-	cout << "Enter [min,max] and h" << endl;
+	cout << "Enter [min,max] and h\n";
 	cin >> min >> max >> h;
 	x = min;
 	cout << "\tX" << "\tY(x)" << endl;
