@@ -23,3 +23,4 @@ int main()
 		x += h;
 	} while (x <= max + h / 2);
 }
+//lol4k
