@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	int min, max;
-	float x, h, y;
+	float x, h, y, a, d, s;
 	cout << "Enter [min,max] and h" << endl;
 	cin >> min >> max >> h;
 	x = min;
